@@ -1,2 +1,2 @@
 # Flame-Sensor-using-LPC2148
-This project is about a fire alarm system which detects flame/ fire in a place. I did this project by using LPC 2148 microcontroller.8
+This project is about a fire alarm system that detects flame/ fire in a place. I did this project by using an LPC 2148 microcontroller. So basically, the flame sensor attached to the microcontroller is always detecting flame. The flame sensor measures IR (Infrared Radiation) from the surroundings. When the IR range flame is detected the sensor gives an output of 1. This triggers the microcontroller to alert the system by sending a message to the LCD. This can be implemented in factories and workshops to prevent human loss.
